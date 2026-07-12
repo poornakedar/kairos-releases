@@ -1,0 +1,11 @@
+{
+  "min_supported": "0",
+  "message": "",
+  "tracks": {
+    "2026": {
+      "latest": "2026",
+      "url": "https://github.com/poornakedar/kairos-releases/releases/latest/download/Kairos-Studio.dmg",
+      "notes": ""
+    }
+  }
+}
