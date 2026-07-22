@@ -3,9 +3,17 @@
   "message": "",
   "tracks": {
     "2026": {
-      "latest": "2026",
-      "url": "https://github.com/poornakedar/kairos-releases/releases/latest/download/Kairos-Studio.dmg",
-      "notes": ""
+      "latest": "2026.0-beta.1",
+      "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0-beta.1/Kairos.Studio.2026.0-beta.1.dmg",
+      "notes": "First public beta. A near-complete rework of the develop engine: smarter auto-develop (need-based Dehaze + Clarity), natural highlight/shadow recovery (no more flat 'painted' look or coloured blotches), perceptually-even Saturation, Light Shaping (beta), and photo-matched denoise Sharpness. It's a beta \u2014 please report anything that looks off.",
+      "assets": {
+        "macos-arm64": {
+          "latest": "2026.0-beta.1",
+          "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0-beta.1/Kairos.Studio.2026.0-beta.1.dmg",
+          "sha256": "28f24f48775ee22bc1a6400229f9975a68afa14fdbbdaf1b49e1e63640353886",
+          "notes": "First public beta. A near-complete rework of the develop engine: smarter auto-develop (need-based Dehaze + Clarity), natural highlight/shadow recovery (no more flat 'painted' look or coloured blotches), perceptually-even Saturation, Light Shaping (beta), and photo-matched denoise Sharpness. It's a beta \u2014 please report anything that looks off."
+        }
+      }
     }
   }
 }
