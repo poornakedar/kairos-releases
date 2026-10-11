@@ -3,17 +3,30 @@
   "message": "",
   "tracks": {
     "2026": {
-      "latest": "2026.0-beta.3",
-      "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0-beta.3/Kairos.Studio.2026.0-beta.3.dmg",
-      "notes": "Sharper exports at smaller sizes, sliders that match the preview you started from, cleaner shadows on high-ISO photos, and better scene detection when a photo loads.",
+      "latest": "2026.0",
+      "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0/Kairos.Studio.2026.0.dmg",
+      "notes": "Kairos Studio 2026 \u2014 the first public release.\n\nAI denoising built for high-ISO work, and an automatic develop that reads the scene \u2014 genre, light and subject \u2014 before it touches a slider. Per-camera calibration for 203 bodies. Repeat exports of the same photo are now up to 20x faster.\n\nEvery 2026.x update is free.",
       "assets": {
         "macos-arm64": {
-          "latest": "2026.0-beta.3",
-          "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0-beta.3/Kairos.Studio.2026.0-beta.3.dmg",
-          "sha256": "1c24d43e0093d7eb2d78c6b4986bbf0c3b3a62e57288072d53b3455653dab144",
-          "notes": "Sharper exports at smaller sizes, sliders that match the preview you started from, cleaner shadows on high-ISO photos, and better scene detection when a photo loads."
+          "latest": "2026.0",
+          "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2026.0/Kairos.Studio.2026.0.dmg",
+          "sha256": "fc1d8d437c5dd0643c6f98602c901fc90edd957d16295b7bed2d025cb8b6c4eb",
+          "notes": "Kairos Studio 2026 \u2014 the first public release.\n\nAI denoising built for high-ISO work, and an automatic develop that reads the scene \u2014 genre, light and subject \u2014 before it touches a slider. Per-camera calibration for 203 bodies. Repeat exports of the same photo are now up to 20x faster.\n\nEvery 2026.x update is free."
         }
       }
+    },
+    "2027": {
+      "assets": {
+        "macos-arm64": {
+          "latest": "2027.0-beta.1",
+          "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2027.0-beta.1/Kairos.Studio.2027.0-beta.1.dmg",
+          "sha256": "6c940a1580f6efbb4bfd62f6057bee614a19793a11cb1e7edb30d7cddf1dae69",
+          "notes": "Kairos Studio 2027 \u2014 first beta, for Mac.\n\n100% now means 100%. Zoom in and you see your photo's true pixels, on the edit and on the Original alike, so the detail you judge is the detail you export.\n\nNoise Reduction in the develop panel. Five new sliders (Luminance, Detail, Colour, Colour detail and Smoothness) for when you want less texture than Kairos keeps. RAW files start at zero; JPGs start from a setting measured from the file.\n\nCleaner high-ISO work. The grainy outline around subjects is gone, and In-Depth leaves far fewer faint tile seams and blotches in dark backgrounds.\n\nTruer landscapes. Golden light stays golden, skies stay blue instead of drifting cyan, and a well-exposed scene is no longer brightened toward grey.\n\nWatermarks and a new export panel. Stamp your name or logo on JPG exports, and preview the export with your current settings first.\n\nAlso new: edits travel inside Kairos DNGs and reopen exactly, Shadows lifts dark tones without muddying smooth gradients, sliders drag more smoothly, processing a photo again is faster, and when something fails Kairos tells you why.\n\nNoise Reduction adds a few seconds to large exports. This beta is Mac only. If anything looks wrong, tell us."
+        }
+      },
+      "latest": "2027.0-beta.1",
+      "url": "https://github.com/poornakedar/kairos-releases/releases/download/v2027.0-beta.1/Kairos.Studio.2027.0-beta.1.dmg",
+      "notes": "Kairos Studio 2027 \u2014 first beta, for Mac.\n\n100% now means 100%. Zoom in and you see your photo's true pixels, on the edit and on the Original alike, so the detail you judge is the detail you export.\n\nNoise Reduction in the develop panel. Five new sliders (Luminance, Detail, Colour, Colour detail and Smoothness) for when you want less texture than Kairos keeps. RAW files start at zero; JPGs start from a setting measured from the file.\n\nCleaner high-ISO work. The grainy outline around subjects is gone, and In-Depth leaves far fewer faint tile seams and blotches in dark backgrounds.\n\nTruer landscapes. Golden light stays golden, skies stay blue instead of drifting cyan, and a well-exposed scene is no longer brightened toward grey.\n\nWatermarks and a new export panel. Stamp your name or logo on JPG exports, and preview the export with your current settings first.\n\nAlso new: edits travel inside Kairos DNGs and reopen exactly, Shadows lifts dark tones without muddying smooth gradients, sliders drag more smoothly, processing a photo again is faster, and when something fails Kairos tells you why.\n\nNoise Reduction adds a few seconds to large exports. This beta is Mac only. If anything looks wrong, tell us."
     }
   }
 }
